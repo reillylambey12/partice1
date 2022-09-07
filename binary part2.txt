@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Resume Summary</h1>
+<p>Insightful computer science student who excels at Java and Python. Seeking a software engineering internship at ASML. Will finish Junior year in May. Maintained a 4.0 average in core Python and Java classes. Won the TopCoder coding challenge in Java in February 2020 and the Coderbyte programming challenge in March of 2020.</p>
+<h1>Education<h1>
+<p>Hunter College
+
+BS in Computer Science
+
+Graduation Date: June 2020
+
+GPA: 3.8/4.0<p>
+
+
+
+</body>
+</html>
