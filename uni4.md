@@ -1,1 +1,0 @@
-![202917762-cb10ee37-ffec-448f-94f8-054b3a974290](https://user-images.githubusercontent.com/113042310/202923307-85346108-30f7-4f1c-980b-ada92271223e.jpg)
