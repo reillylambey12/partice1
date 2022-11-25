@@ -8,11 +8,11 @@ body {
 
 /* Style the header */
 header {
-  background-color: #6930C3;
+  background-color: #160602;
   padding: 30px;
   text-align: center;
   font-size: 35px;
-  color: white;
+  color: red;
 }
 
 /* Create two columns/boxes that floats next to each other */
@@ -48,7 +48,7 @@ section:after {
 /* Style the footer */
 footer {
   background-color: #160602;
-  padding: 20px;
+  padding: 10px;
   text-align: center;
   color: red;
 }
